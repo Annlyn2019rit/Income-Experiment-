@@ -25,5 +25,4 @@ https://studio.azureml.net/Home/ViewWorkspaceCached/665234c0ab5f434d83b02bcbed70
 
 This was developed using Azure Machine Learning Classic
 
-Project Demo
 
